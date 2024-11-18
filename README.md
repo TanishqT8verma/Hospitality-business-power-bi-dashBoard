@@ -16,4 +16,4 @@ Key Insights-
 -)Pareto principle- 20% of the hotels are the cause of the 80% percent of revenue average 
 -)There is a strong corelation between occupancy and the hotel rating so the rating effect the image of the hotel
 -)highest revenue is given by elight rooms 
--
+
